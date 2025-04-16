@@ -6,7 +6,7 @@ import hashlib
 from datetime import datetime, timedelta
 
 # Beigu datums
-END_DATE = "2025-05-01 00:00:00"
+END_DATE = "2025-04-01 00:00:00"
 
 # Žanri un mūziķi
 genres = {
