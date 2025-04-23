@@ -37,6 +37,8 @@ python main.py
 
 Datuma maiņa
 Lai mainītu balsošanas beigu datumu, rediģē mainīgo END_DATE:
-END_DATE = "2025-04-01 00:00:00"
+```sh
+END_DATE = "2025-05-01 00:00:00"
+```
 # Autors
 # Ņikita Koļcovs, Maksims Koršunovs 
