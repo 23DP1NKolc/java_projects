@@ -13,7 +13,7 @@
         "Hip-hops": "Jay-Z",
         "Elektronika": "Skrillex"
     },
-    "penis@gmail.com": {
+    "denis@gmail.com": {
         "Roks": "The Beatles",
         "Pops": "Lady Gaga",
         "D\u017eezs": "Miles Davis",
@@ -54,5 +54,12 @@
         "D\u017eezs": "Miles Davis",
         "Hip-hops": "Post Malone",
         "Elektronika": "Skrillex"
+    },
+    "nikita@gmail.com": {
+        "Roks": "The Beatles",
+        "Pops": "Tyler, The Creator",
+        "D\u017eezs": "Duke Ellington",
+        "Hip-hops": "Post Malone",
+        "Elektronika": "Radiohead"
     }
 }
